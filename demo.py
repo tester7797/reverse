@@ -13,3 +13,6 @@ while numb > 0:    # 1234 != 0
 print('reverse numb',rev)
 
 print('done')
+
+a=20
+print(a)
