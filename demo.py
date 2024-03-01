@@ -11,3 +11,5 @@ while numb > 0:    # 1234 != 0
     numb=numb//10    #1234   #123  #12
 
 print('reverse numb',rev)
+
+print('done')
